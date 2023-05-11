@@ -1,2 +1,2 @@
 # MNIST-Character-Recognition-with-Tensorflow
-Digital classification using the MNIST dataset
+Digital classification and Character Recognition using Tensorflow and the MNIST dataset
